@@ -1,11 +1,11 @@
-About pygadm
-============
+About pygadm-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pygadm-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/pygadm/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pygadm-feedstock/blob/main/LICENSE.txt)
 
 Summary: Easy access to administrative boundary defined by GADM from Python scripts
 
