@@ -23,6 +23,7 @@ requirements:
     - deprecated
     - geopandas
     - pyarrow
+    - requests-cache
 
 test:
   imports:
