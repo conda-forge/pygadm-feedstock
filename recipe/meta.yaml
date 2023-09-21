@@ -1,5 +1,5 @@
 {% set name = "pygadm" %}
-{% set version = "0.5.0" %}
+{% set version = "0.5.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pygadm-{{ version }}.tar.gz
-  sha256: 0264d1f716625404e270d502d6fb8c7d45a914ee45ee8f75a2d5da80dce48b2c
+  sha256: 45584acca6999afb319ca5c7faa78b26752411d66118fad30334ebd368499342
 
 build:
   noarch: python
